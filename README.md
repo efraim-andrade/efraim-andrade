@@ -1,16 +1,13 @@
-### Hi there 👋
+# Efraim Andrade
 
-<!--
-**efraim-andrade/efraim-andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front End.
 
-Here are some ideas to get you started:
+Olá, meu nome e Efraim Andrade e trabalho com desenvolvimento front end na Goomer, tenho trabalhado os últimos 3 anos desenvolvendo a mais diversas aplicações web e aplicativos para Android e iOS, sou formado no ensino superior em Análise e Desenvolvimento de Sistemas pela FATEC de Itapetininga e no ensino técnico pelo IFSP, fiz o bootcamp da Rocketseat e sigo sempre acompanhando as novidades do mundo do desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também sou o criador do aplicativo Fatecanos que fiz no período que estava me formando na faculdade e sigo lançando coisas novas e mantendo o app.
+
+Contato:
+[Email](efraim.dev@gmail.com) /
+[Site](https://efraimandrade.work) /
+[Linkedin](https://www.linkedin.com/in/efraim-andrade-morais-junior-517b0a149/)
+
