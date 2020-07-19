@@ -8,6 +8,6 @@ Também sou o criador do aplicativo Fatecanos que fiz no período que estava me 
 
 Contato:
 [Email](efraim.dev@gmail.com) /
-[Site](https://efraimandrade.work) /
+[Site](https://www.efraimandrade.work) /
 [Linkedin](https://www.linkedin.com/in/efraim-andrade-morais-junior-517b0a149/)
 
