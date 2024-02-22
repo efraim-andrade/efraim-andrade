@@ -1,12 +1,24 @@
-# Efraim Andrade
+### Hi there, I'm Efraim Andrade! 👋
 
-Olá, meu nome e Efraim Andrade e trabalho com desenvolvimento front end, tenho trabalhado os últimos 6 anos desenvolvendo a mais diversas aplicações web e aplicativos para Android e iOS, sou formado no ensino superior em Análise e Desenvolvimento de Sistemas pela FATEC de Itapetininga e no ensino técnico pelo IFSP, fiz o bootcamp da Rocketseat e sigo sempre acompanhando as novidades do mundo do desenvolvimento.
+Hi, my name is Efraim Andrade and I have worked with Front-end development in the last 6 years developing the most diverse web and mobile applications.
 
-Recentemente resolvi investir em desenvolver minhas habilidades em UI design para que possa entregar mais qualidade nos projetos em que participo.
+#### 🌱 Technologies & Tools:
+- React
+- React Native
+- Next.js
+- JavaScript / TypeScript
+- Tailwind
 
-Também sou o criador do aplicativo Fatecanos que fiz no período que estava me formando na faculdade porém acabei precisando descontinuar o projeto por não ter mais acesso ao sistema.
+#### 📫 Get in Touch:
+- Email: [efraim.dev@gmail.com](mailto:efraim.dev@gmail.com)
+- Personal Site: [efraimandrade.work](https://www.efraimandrade.work)
+- GitHub: [@efraim-andrade](https://github.com/efraim-andrade)
 
-Contato:
-[Email](efraim.dev@gmail.com) /
-[Site](https://www.efraimandrade.work) /
-[Linkedin](https://www.linkedin.com/in/efraim-andrade-517b0a149/)
+
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/efraim.am" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:efraim.dev+github@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/efraim-andrade-517b0a149/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
