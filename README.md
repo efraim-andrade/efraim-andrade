@@ -9,10 +9,9 @@ Hi, my name is Efraim Andrade and I have worked with Front-end development in th
 - JavaScript / TypeScript
 - Tailwind
 
-#### 📫 Get in Touch:
-- Email: [efraim.dev@gmail.com](mailto:efraim.dev@gmail.com)
+#### 📫 Take a look into my personal website o/:
+
 - Personal Site: [efraimandrade.work](https://www.efraimandrade.work)
-- GitHub: [@efraim-andrade](https://github.com/efraim-andrade)
 
 
   ##
