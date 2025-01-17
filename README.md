@@ -1,6 +1,6 @@
 ### Hi there, I'm Efraim Andrade! 👋
 
-Hi, my name is Efraim Andrade and I have worked with Front-end development in the last 6 years developing the most diverse web and mobile applications.
+Hi, my name is Efraim Andrade and I have worked with Front-end development in the last 8 years developing the most diverse web and mobile applications.
 
 #### 🌱 Technologies & Tools:
 - React
